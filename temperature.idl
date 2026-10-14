@@ -1,0 +1,4 @@
+interface Temperature {
+    double cToF(in double c);
+    double fToC(in double f);
+};
